@@ -1,3 +1,19 @@
+# Tastiera
+
+https://en.wikipedia.org/wiki/Clavier_%C3%A0_lumi%C3%A8res
+
+- [ ] Use web audio to power a basic poly synth
+    - [x] MIDI controller input
+    - [x] Keyboard input
+    - [ ] Parameters for modifying tone color
+    - [ ] Keep it from clipping 
+- [ ] User interface
+    - [ ] About page
+    - [ ] Theater page with controls and visualizer
+- [ ] Smartly determine the key and what chords are being played
+- [ ] Colorize the visualizer based on the chords like Scriabin would have wanted
+- [ ] MIDI roll reader with view to watch scores
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
